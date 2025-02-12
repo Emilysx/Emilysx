@@ -1,16 +1,91 @@
-## Hi there 👋
+## Emily Gabrielle
+Me chamo Emily Gabrielle, tenho 19 anos e moro em Monte Mor, SP. Concluí o ensino médio na Etec de Monte Mor, junto ao técnico em Informática para Internet. Atualmente, curso Análise e Desenvolvimento de Sistemas no Senai Roberto Mange, sempre buscando aprender e evoluir na área da tecnologia. Trabalho como Jovem Aprendiz na Bosch, atuando na área de Soluções Digitais, onde estou adquirindo experiência no mundo da programação.
+### 🤖 Linguagens
+<p>
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+align="left"
+alt="Bootstrap"
+title="Bootstrap"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+<img
+align="left"
+alt="PHP"
+title="PHP"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+align="left"
+alt="Python"
+title="Python"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+align="left"
+alt="MySQL"
+title="MySQL"
+width="50px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img
+align="left"
+alt="C++"
+title="C++"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+</p>
+<br/>
+<br/>
 
-<!--
-**Emilysx/Emilysx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Estatísticas
+<p>
+<p>
+<img
+align="left"
+alt="GitHub Stats"
+height="150"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=Emilysx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+<img
+align="left"
+alt="GitHub Stats"
+height="150"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilysx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
