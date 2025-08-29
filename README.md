@@ -72,7 +72,7 @@ alt="Java"
 title="Java"
 width="40px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="50px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="70px"
 />    
 </p>
 <br/>
