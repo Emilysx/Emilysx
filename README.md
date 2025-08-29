@@ -70,10 +70,42 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 align="left"
 alt="Java"
 title="Java"
+width="50px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+<img
+align="left"
+alt="FastAPI"
+title="FastAPI"
 width="40px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="70px"
-/>    
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+/> 
+<img
+align="left"
+alt="Django"
+title="Django"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/> 
+<img
+align="left"
+alt="React"
+title="React"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/> 
+<img
+align="left"
+alt="Figma"
+title="Figma"
+width="40px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/> 
 </p>
 <br/>
 <br/>
